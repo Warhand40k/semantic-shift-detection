@@ -1,4 +1,4 @@
-# Semantic Shift Detection via Incremental Clustering
+# Semantic Shift Detection
 
 **NLP Course Project** — Emergence of New Meanings for Existing Words
 
